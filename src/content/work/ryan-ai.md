@@ -11,8 +11,6 @@ tags:
   - ChatGPT
 ---
 
-## Level-two heading
-
-> Tell me and I forget. Teach me and I remember. Involve me and I learn.
+## 🤖 Ryan AI
 
 <a href="https://ryan-ai.netlify.app/">Ryan AI</a> An AI that can answer questions or chat using built using the ChatGPT API. 
