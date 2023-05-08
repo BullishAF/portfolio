@@ -1,7 +1,7 @@
 ---
 title: AI Dating Bio
 publishDate: 2023-05-07 00:00:00
-img: /assets/aidating.png
+img: /assets/screenshot.png
 img_alt: AI Dating Bio
 description: |
  Let AI generate your Bio for Dating Apps!
