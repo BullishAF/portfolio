@@ -39,8 +39,8 @@ const projects = (await getCollection('work'))
 
 				<img
 					alt="Ryan Parker"
-					width="200"
-					height="480"
+					width="400"
+					height="680"
 					src="/assets/ryanpic.png"
 				/>
 			</header>
@@ -96,8 +96,8 @@ const projects = (await getCollection('work'))
 
 	.hero img {
 		aspect-ratio: 5 / 4;
-		object-fit: fill;
-		object-position: top;
+		object-fit: contain;
+		object-position: center;
 		border-radius: 1.5rem;
 		box-shadow: var(--shadow-md);
 	}
