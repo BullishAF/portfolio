@@ -10,6 +10,6 @@ tags:
   - Smart Contracts
   - Crypto
 ---
-<h2>
+<h5>
 <a href="https://my-token-vendor.surge.sh/">Scaffold-ETH Token Vendor Example</a> is an Ethereum token vending contract example
-</h2>
+</h5>
