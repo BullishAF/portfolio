@@ -1,6 +1,6 @@
 ---
 title: Scaffold-ETH Token Vendor Example
-publishDate: 2023-05-12 00:00:00
+publishDate: 2023-05-06 00:00:00
 img: /assets/tokenvendor.png
 img_alt: Token Vendor Example
 description: |
