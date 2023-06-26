@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+
+<url>
+  <loc>https://ryanp.vercel.app/</loc>
+  <lastmod>2023-06-26T12:59:58+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://ryanp.vercel.app/work/</loc>
+  <lastmod>2023-06-26T12:59:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ryanp.vercel.app/about/</loc>
+  <lastmod>2023-06-26T12:59:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ryanp.vercel.app/work/bobo-dex</loc>
+  <lastmod>2023-06-26T12:59:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ryanp.vercel.app/work/ai-dating</loc>
+  <lastmod>2023-06-26T12:59:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ryanp.vercel.app/work/nft-example</loc>
+  <lastmod>2023-06-26T12:59:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ryanp.vercel.app/work/staking-app</loc>
+  <lastmod>2023-06-26T12:59:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ryanp.vercel.app/work/dice-game</loc>
+  <lastmod>2023-06-26T12:59:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ryanp.vercel.app/work/token-vendor</loc>
+  <lastmod>2023-06-26T12:59:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ryanp.vercel.app/work/ryan-ai</loc>
+  <lastmod>2023-06-26T12:59:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
